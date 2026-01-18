@@ -1,5 +1,5 @@
 # 💫 About Me:
-From developing agentic AI systems to leading automation projects for startups, I bring a blend of technical depth and product vision. I actively explore advanced AI architectures, reasoning frameworks, and human-centered design to create digital teammates, not just tools.<br><br>Currently, I'm:<br>✔️ Leading AI & Web innovation at VisionsCraft<br>✔️ Guiding tech talent via Topmate 1:1 mentorships<br>✔️ Engineering production-grade AI Automations at Schmoozzer
+From developing agentic AI systems to leading automation projects for startups, I bring a blend of technical depth and product vision. I actively explore advanced AI architectures, reasoning frameworks, and human-centered design to create digital teammates, not just tools.<br><br>Currently, I'm:<br>✔️ Leading AI & Web innovation @ VisionsCraft<br>✔️ Guiding tech talent via Topmate 1:1 mentorships<br>✔️ Engineering production-grade SaaS Products @ Schmoozzer
 
 
 ## 🌐 Socials:
