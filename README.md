@@ -6,12 +6,12 @@ I specialize in building production-grade AI systems and SaaS products that solv
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-- 🤖 **Leading AI & Web Innovation** at VisionsCraft
-- 💼 **Engineering Production SaaS** at Schmoozzer
-- 🎓 **Mentoring Tech Talent** via Topmate 1:1 sessions
-- 🔬 **Exploring** Advanced AI reasoning frameworks and agentic architectures
+-  **Leading AI & Web Innovation** at VisionsCraft
+-  **Engineering Production SaaS** at Schmoozzer
+-  **Mentoring Tech Talent** via Topmate 1:1 sessions
+-  **Exploring** Advanced AI reasoning frameworks and agentic architectures
 
 ---
 
@@ -61,5 +61,3 @@ I specialize in building production-grade AI systems and SaaS products that solv
 ---
 
 💬 *Open to collaborating on innovative AI projects and full-stack applications*
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Atif1299&icon=0&color=6)
