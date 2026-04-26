@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Atif 👋
 
-**AI Engineer | Full-Stack Developer | Building Intelligent Systems**
+**Lead AI Product Architect @Schmoozzer**
 
 I specialize in building production-grade AI systems and SaaS products that solve real-world problems. From agentic AI architectures to full-stack automation platforms, I focus on creating solutions that are both technically robust and user-centric.
 
