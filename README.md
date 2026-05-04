@@ -28,25 +28,18 @@
 
 ---
 
-## Right now
+## Roles
 
-- **Schmoozzer** · Lead AI Product Architect · *Sep 2025 — present* — **10X AC**: SaaS on ActiveCampaign; **agentic** automation across LinkedIn, Instagram, Email, WhatsApp; strategy and LLM roadmap alignment.
-- **Upwork** · Senior AI Consultant & Solutions Architect · *Aug 2025 — present* — Client AI SaaS, **RAG**, production deployments, scalability.
-- **Previously · CodAgentic** · AI Engineer & Developer · *Feb 2024 — Aug 2025* — LLM/RAG pipelines, evaluation frameworks, **multi-agent** productization.
-- **Community** — **Topmate** mentoring; multi-agent and reasoning patterns.
+**Current**
 
----
+- **Lead AI Product Architect @ Schmoozzer** · *Sep 2025 — present* — Product & systems architecture for **10X AC** (ActiveCampaign-adjacent SaaS); agent orchestration across email, social, and messaging.
+- **Senior AI Consultant & Solutions Architect @ Upwork** · *Aug 2025 — present* — End-to-end client builds: **RAG**, AI SaaS, production deployment and scale-up.
 
-## Signature work
+**Recent**
 
-**Schmoozzer 10X AC** — *FastAPI · Next.js · LLMs · AI agents*  
-Scalable SaaS “intelligent plugin” for ActiveCampaign: **multi-channel** automation, **contextual** agents, high-performance APIs, low-latency inference.
+- **AI Engineer & Developer @ CodAgentic** · *Feb 2024 — Aug 2025* — LLM/RAG pipelines, evaluation rigor, multi-agent productization.
 
-**100-Docs Multilingual RAG** — *Architecture · LangChain · GCP*  
-Production **English / Arabic** RAG at scale; **GCP + Docker** with auto-scaling; retrieval tuned for **latency** and **semantic accuracy**.
-
-**RAG Product Recommender** — *Pinecone · System design · FastAPI*  
-Behavior-based personalization; **sub-100ms** vector search in production APIs; outcomes tied to **engagement** and **conversions**.
+*Mentorship:* [Topmate — 1:1 sessions](https://topmate.io/muhammad_atif).
 
 ---
 
