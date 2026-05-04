@@ -45,17 +45,21 @@
 
 ## Stack & platforms
 
+*Same tools, two views: **shipping** (icons) and **intelligence + trust** (lines below)—interfaces and services, then models/orchestrators, then memory and how you run it in production.*
+
 <div align="center">
+
+**Product & platform engineering**
 
 ![](https://skillicons.dev/icons?i=py,ts,fastapi,nextjs,react,docker,aws,gcp,kubernetes,postgres,tensorflow,nodejs,mongodb,redis,supabase&perline=8&theme=light)
 
 </div>
 
-**LLMs, agents & automation** — OpenAI · Anthropic · LangChain · LangGraph · AutoGen · CrewAI · n8n · Hugging Face
+**Models, agents & workflow** — OpenAI · Anthropic · LangChain · LangGraph · AutoGen · CrewAI · n8n · Hugging Face
 
-**Retrieval & data** — Pinecone · Milvus · ChromaDB · FAISS · Pandas
+**Context, memory & search** — Pinecone · Milvus · ChromaDB · FAISS · Pandas
 
-**MLOps & delivery** — MLflow · Vertex AI · CI/CD · REST APIs
+**Reliability, cloud ML & release** — MLflow · Vertex AI · CI/CD · REST APIs
 
 ---
 
