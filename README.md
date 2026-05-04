@@ -30,9 +30,10 @@
 
 ## Right now
 
-- **Schmoozzer (Lead AI Product Architect)** — Architecture and product strategy for **Schmoozzer 10X AC**: AI-powered SaaS extending ActiveCampaign; **agentic workflows** across LinkedIn, Instagram, Email, and WhatsApp; aligning advanced LLM work with business goals.
-- **Upwork (Senior AI Consultant & Solutions Architect)** — Bespoke AI SaaS, **RAG**, LLM deployments, and **scalable production** delivery for international clients.
-- **Community** — Mentoring engineers through **Topmate**; exploring advanced reasoning and **multi-agent** patterns.
+- **Schmoozzer** · Lead AI Product Architect · *Sep 2025 — present* — **10X AC**: SaaS on ActiveCampaign; **agentic** automation across LinkedIn, Instagram, Email, WhatsApp; product strategy and LLM roadmap alignment.
+- **Upwork** · Senior AI Consultant & Solutions Architect · *Aug 2025 — present* — Client AI SaaS, **RAG**, production deployments, scalability.
+- **Previously · CodAgentic** · AI Engineer & Developer · *Feb 2024 — Aug 2025* — LLM/RAG pipelines, evaluation frameworks, **multi-agent** productization.
+- **Community** — **Topmate** mentoring; multi-agent and reasoning patterns.
 
 ---
 
@@ -51,39 +52,38 @@ Personalized recommendations from behavior embeddings; **sub-100ms** vector sear
 
 ## Stack & platforms
 
-**AI & orchestration**  
-LangChain · LangGraph · AutoGen · CrewAI · TensorFlow · Hugging Face · n8n · OpenAI · Anthropic
+<div align="center">
 
-**Build**  
-Python · TypeScript · JavaScript · FastAPI · Next.js · Node.js · React · REST APIs
+**Core toolkit**
 
-**Data & vectors**  
-PostgreSQL · MongoDB · Redis · Pinecone · Milvus · ChromaDB · FAISS · Supabase · Pandas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Cloud & ops**  
-AWS · GCP · Docker · Kubernetes · CI/CD · MLflow · Vertex AI
+<br/>
+
+<sub><strong>Also in play</strong> — Anthropic · LangGraph · AutoGen · CrewAI · TensorFlow · Hugging Face · n8n · Milvus · ChromaDB · FAISS · Supabase · Redis · MongoDB · Node.js · MLflow · Vertex AI · Kubernetes · CI/CD · Pandas · REST APIs</sub>
+
+</div>
 
 ---
 
-## Experience (high level)
+## Education & credentials
 
-| Role | Org | Focus |
-|------|-----|--------|
-| Lead AI Product Architect | Schmoozzer | Product strategy, **10X AC** platform, multi-channel **agentic** automation |
-| Senior AI Consultant & Solutions Architect | Upwork | Client AI SaaS, RAG, scalability, production deployment |
-| AI Engineer & Developer | CodAgentic | LLM/RAG pipelines, **evaluation frameworks**, multi-agent productization |
+**B.S. Artificial Intelligence** · COMSATS University Islamabad (Lahore)
 
----
+IBM Advanced Deep Learning Specialist · ML Strategist · Deep Learning with Keras · AI with Python · Certified AI Engineering Masterclasses (Udemy, 2025)
 
-## Education & certifications
-
-**B.S. Artificial Intelligence** — COMSATS University Islamabad (Lahore campus)
-
-- Certified AI Engineering Masterclasses (Udemy, 2025)  
-- IBM Advanced Deep Learning Specialist · IBM Machine Learning Strategist  
-- Deep Learning Essentials with Keras · Artificial Intelligence with Python
-
-**Languages:** English (fluent) · Urdu (native) · Arabic (working knowledge for NLP)
+*English* · *Urdu* · *Arabic (NLP-oriented)*
 
 ---
 
