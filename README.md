@@ -64,14 +64,28 @@
 
 <br/>
 
-<details align="left">
-<summary><strong>Also in play</strong> <sub>(expand)</sub></summary>
+**AI, agents & MLOps**
 
-<sub>LLMs & agents — Anthropic · LangGraph · AutoGen · CrewAI · TensorFlow · Hugging Face · n8n</sub>  
-<sub>Data & vectors — Milvus · ChromaDB · FAISS · Supabase · Redis · MongoDB · Pandas</sub>  
-<sub>Platform — Node.js · MLflow · Vertex AI · Kubernetes · CI/CD · REST APIs</sub>
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-</details>
+<br/>
+
+**Also core to solution architecture**
+
+| Area | Tools |
+|------|--------|
+| **LLMs & agents** | LangGraph · AutoGen · CrewAI |
+| **Data & vectors** | Milvus · ChromaDB · FAISS · Pandas |
+| **Platform & delivery** | Vertex AI · CI/CD · REST APIs |
 
 </div>
 
