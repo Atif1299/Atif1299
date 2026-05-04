@@ -30,10 +30,10 @@
 
 ## Right now
 
-- **Schmoozzer** · Lead AI Product Architect · *Sep 2025 — present* — **10X AC**: SaaS on ActiveCampaign; **agentic** automation across LinkedIn, Instagram, Email, WhatsApp; strategy and LLM roadmap alignment.
-- **Upwork** · Senior AI Consultant & Solutions Architect · *Aug 2025 — present* — Client AI SaaS, **RAG**, production deployments, scalability.
-- **Previously · CodAgentic** · AI Engineer & Developer · *Feb 2024 — Aug 2025* — LLM/RAG pipelines, evaluation frameworks, **multi-agent** productization.
-- **Community** — **Topmate** mentoring; multi-agent and reasoning patterns.
+- **Schmoozzer** — Lead AI Product Architect · *Sep 2025 — present* — **10X AC**: product/architecture for agentic automation on ActiveCampaign; LLM roadmap and cross-functional alignment.
+- **Upwork** — Senior AI Consultant & Solutions Architect · *Aug 2025 — present* — Client AI SaaS, **RAG**, production rollout, scalability.
+- **CodAgentic** — AI Engineer & Developer · *Feb 2024 — Aug 2025* — LLM/RAG pipelines, evaluation harnesses, multi-agent productization.
+- **Topmate** — 1:1 mentorship (community).
 
 ---
 
@@ -88,9 +88,14 @@ Behavior-based personalization; **sub-100ms** vector search in production APIs; 
 
 **B.S. Artificial Intelligence** — COMSATS University Islamabad (Lahore)
 
-- IBM Advanced Deep Learning Specialist · IBM Machine Learning Strategist  
-- Deep Learning Essentials with Keras · Artificial Intelligence with Python  
-- Certified AI Engineering Masterclasses (Udemy, 2025)
+**IBM** — Advanced Deep Learning Specialist · Machine Learning Strategist · Deep Learning (Keras) · AI with Python
+
+<details>
+<summary><strong>Also</strong> <sub>(expand)</sub></summary>
+
+Certified AI Engineering Masterclasses (Udemy, 2025)
+
+</details>
 
 *English* · *Urdu* · *Arabic (NLP-oriented)*
 
