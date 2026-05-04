@@ -1,63 +1,108 @@
-# Hi, I'm Muhammad Atif 👋
+<div align="center">
 
-**Lead AI Product Architect @Schmoozzer**
+# Muhammad Atif
 
-I specialize in building production-grade AI systems and SaaS products that solve real-world problems. From agentic AI architectures to full-stack automation platforms, I focus on creating solutions that are both technically robust and user-centric.
+**AI Solution Architect · Product Strategist · Lead AI Product Architect @ Schmoozzer**
 
----
+[![Location](https://img.shields.io/badge/Location-Pakistan%20%28Remote%29-0e1629?style=for-the-badge)](https://www.linkedin.com/in/muhammad-atif-ai-engineer)
+[![Open](https://img.shields.io/badge/Open%20to-Global%20Opportunities-2d7a3e?style=for-the-badge)](mailto:ranaatif1299@gmail.com)
+[![Topmate](https://img.shields.io/badge/Mentorship-Topmate%201%3A1-000000?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/muhammad_atif)
 
-##  What I'm Working On
+*Designing, scaling, and shipping production-grade AI systems and SaaS—LLMs, RAG, agentic workflows, and full-stack delivery from architecture through MLOps.*
 
--  **Leading AI & Web Innovation** at VisionsCraft
--  **Engineering Production SaaS** at Schmoozzer
--  **Mentoring Tech Talent** via Topmate 1:1 sessions
--  **Exploring** Advanced AI reasoning frameworks and agentic architectures
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=58D68D&center=true&vCenter=true&width=800&lines=LLMs+%26+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+Enterprise+SaaS;AWS+%2F+GCP+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Real-time+AI" alt="Focus areas" />
 
-## 💡 Core Expertise
-
-**AI & Machine Learning**
-- LLM Integration (OpenAI, Anthropic, Local Models)
-- Agentic AI Systems & Multi-Agent Orchestration
-- RAG Pipelines & Vector Databases
-- LangChain, LangGraph, Prompt Engineering
-
-**Full-Stack Development**
-- Frontend: React, TypeScript, Next.js, Chrome Extensions
-- Backend: Python (FastAPI, Django), Node.js
-- Cloud: AWS, Google Cloud, Vercel
-- Databases: PostgreSQL, MongoDB, Pinecone
-
-**Building**
-- Production SaaS Applications
-- AI-Powered Automation Tools
-- Real-time Data Processing Systems
-- API Design & Integration
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## What I do
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+| Pillar | How it shows up |
+|--------|-----------------|
+| **Architecture** | End-to-end system design: constraints, APIs, retrieval, and deployment patterns that hold at scale. |
+| **Product** | Roadmaps and requirements translated into **agentic automation**, **RAG**, and **LLM features** aligned with business outcomes. |
+| **Execution** | Full-stack builds—**FastAPI**, **Next.js**, **React**, vector stores, cloud, CI/CD—plus **MLOps** and reliability thinking. |
 
 ---
 
-## 📫 Let's Connect
+## Right now
+
+- **Schmoozzer (Lead AI Product Architect)** — Architecture and product strategy for **Schmoozzer 10X AC**: AI-powered SaaS extending ActiveCampaign; **agentic workflows** across LinkedIn, Instagram, Email, and WhatsApp; aligning advanced LLM work with business goals.
+- **Upwork (Senior AI Consultant & Solutions Architect)** — Bespoke AI SaaS, **RAG**, LLM deployments, and **scalable production** delivery for international clients.
+- **Community** — Mentoring engineers through **Topmate**; exploring advanced reasoning and **multi-agent** patterns.
+
+---
+
+## Signature work
+
+**Schmoozzer 10X AC** — *FastAPI · Next.js · LLMs · AI agents*  
+Scalable SaaS “intelligent plugin” for ActiveCampaign: **multi-channel** automation, **contextual** agent design, high-performance APIs, low-latency inference posture.
+
+**100-Docs Multilingual RAG** — *Architecture · LangChain · GCP*  
+Production **English / Arabic** RAG for large-scale documents; **GCP + Docker**, auto-scaling posture; embedding and retrieval tuned for **latency and semantic accuracy**.
+
+**RAG Product Recommender** — *Pinecone · System design · FastAPI*  
+Personalized recommendations from behavior embeddings; **sub-100ms** vector search in production APIs; metrics tied to **engagement and conversions**.
+
+---
+
+## Stack & platforms
+
+**AI & orchestration**  
+LangChain · LangGraph · AutoGen · CrewAI · TensorFlow · Hugging Face · n8n · OpenAI · Anthropic
+
+**Build**  
+Python · TypeScript · JavaScript · FastAPI · Next.js · Node.js · React · REST APIs
+
+**Data & vectors**  
+PostgreSQL · MongoDB · Redis · Pinecone · Milvus · ChromaDB · FAISS · Supabase · Pandas
+
+**Cloud & ops**  
+AWS · GCP · Docker · Kubernetes · CI/CD · MLflow · Vertex AI
+
+---
+
+## Experience (high level)
+
+| Role | Org | Focus |
+|------|-----|--------|
+| Lead AI Product Architect | Schmoozzer | Product strategy, **10X AC** platform, multi-channel **agentic** automation |
+| Senior AI Consultant & Solutions Architect | Upwork | Client AI SaaS, RAG, scalability, production deployment |
+| AI Engineer & Developer | CodAgentic | LLM/RAG pipelines, **evaluation frameworks**, multi-agent productization |
+
+---
+
+## Education & certifications
+
+**B.S. Artificial Intelligence** — COMSATS University Islamabad (Lahore campus)
+
+- Certified AI Engineering Masterclasses (Udemy, 2025)  
+- IBM Advanced Deep Learning Specialist · IBM Machine Learning Strategist  
+- Deep Learning Essentials with Keras · Artificial Intelligence with Python
+
+**Languages:** English (fluent) · Urdu (native) · Arabic (working knowledge for NLP)
+
+---
+
+<div align="center">
+
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-atif-ai-engineer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranaatif1299@gmail.com)
 [![Topmate](https://img.shields.io/badge/Topmate-000000?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/muhammad_atif)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atif1299)
 
----
+<br/>
 
-💬 *Open to collaborating on innovative AI projects and full-stack applications*
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atif1299&show_icons=true&theme=tokyonight&hide_title=false&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atif1299&layout=compact&theme=tokyonight)
+
+<br/>
+
+<sub>Open to collaborating on serious AI products, agentic systems, and full-stack builds.</sub>
+
+</div>
