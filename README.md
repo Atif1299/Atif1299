@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=58D68D&center=true&vCenter=true&width=800&lines=LLMs+%26+RAG+%E2%80%A2+Multi-Agent+Orchestration+%E2%80%A2+Enterprise+SaaS;AWS+%2F+GCP+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+%E2%80%A2+Real-time+AI" alt="Focus areas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=20&pause=1000&color=58D68D&center=true&vCenter=true&width=920&lines=LLMs+%26+RAG+%C2%B7+multi-agent+%C2%B7+enterprise+SaaS;AWS+%2F+GCP+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+production+AI" alt="Focus areas" />
 
 </div>
 
@@ -43,23 +43,19 @@
 
 ---
 
-## Stack & platforms
-
-*Same tools, two views: **shipping** (icons) and **intelligence + trust** (lines below)—interfaces and services, then models/orchestrators, then memory and how you run it in production.*
+## Solution stack
 
 <div align="center">
-
-**Product & platform engineering**
 
 ![](https://skillicons.dev/icons?i=py,ts,fastapi,nextjs,react,docker,aws,gcp,kubernetes,postgres,tensorflow,nodejs,mongodb,redis,supabase&perline=8&theme=light)
 
 </div>
 
-**Models, agents & workflow** — OpenAI · Anthropic · LangChain · LangGraph · AutoGen · CrewAI · n8n · Hugging Face
-
-**Context, memory & search** — Pinecone · Milvus · ChromaDB · FAISS · Pandas
-
-**Reliability, cloud ML & release** — MLflow · Vertex AI · CI/CD · REST APIs
+| Layer | Representative tooling |
+|-------|-------------------------|
+| **Reasoning, orchestration & automation** | OpenAI · Anthropic · LangChain · LangGraph · AutoGen · CrewAI · n8n · Hugging Face |
+| **Knowledge, retrieval & data** | Pinecone · Milvus · ChromaDB · FAISS · Pandas |
+| **Release, cloud ML & integration** | MLflow · Vertex AI · CI/CD · REST APIs |
 
 ---
 
