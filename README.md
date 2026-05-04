@@ -20,17 +20,17 @@
 
 ## What I do
 
-| Pillar | How it shows up |
-|--------|-----------------|
-| **Architecture** | End-to-end system design: constraints, APIs, retrieval, and deployment patterns that hold at scale. |
-| **Product** | Roadmaps and requirements translated into **agentic automation**, **RAG**, and **LLM features** aligned with business outcomes. |
-| **Execution** | Full-stack builds—**FastAPI**, **Next.js**, **React**, vector stores, cloud, CI/CD—plus **MLOps** and reliability thinking. |
+| Pillar | In practice |
+|--------|-------------|
+| **Architecture** | Constraints, APIs, retrieval, deployment patterns that survive load and change. |
+| **Product** | **Agentic automation**, **RAG**, and **LLM** capabilities tied to measurable outcomes. |
+| **Execution** | **FastAPI**, **Next.js**, **React**, vector DBs, cloud, CI/CD, **MLOps**, reliability. |
 
 ---
 
 ## Right now
 
-- **Schmoozzer** · Lead AI Product Architect · *Sep 2025 — present* — **10X AC**: SaaS on ActiveCampaign; **agentic** automation across LinkedIn, Instagram, Email, WhatsApp; product strategy and LLM roadmap alignment.
+- **Schmoozzer** · Lead AI Product Architect · *Sep 2025 — present* — **10X AC**: SaaS on ActiveCampaign; **agentic** automation across LinkedIn, Instagram, Email, WhatsApp; strategy and LLM roadmap alignment.
 - **Upwork** · Senior AI Consultant & Solutions Architect · *Aug 2025 — present* — Client AI SaaS, **RAG**, production deployments, scalability.
 - **Previously · CodAgentic** · AI Engineer & Developer · *Feb 2024 — Aug 2025* — LLM/RAG pipelines, evaluation frameworks, **multi-agent** productization.
 - **Community** — **Topmate** mentoring; multi-agent and reasoning patterns.
@@ -40,13 +40,13 @@
 ## Signature work
 
 **Schmoozzer 10X AC** — *FastAPI · Next.js · LLMs · AI agents*  
-Scalable SaaS “intelligent plugin” for ActiveCampaign: **multi-channel** automation, **contextual** agent design, high-performance APIs, low-latency inference posture.
+Scalable SaaS “intelligent plugin” for ActiveCampaign: **multi-channel** automation, **contextual** agents, high-performance APIs, low-latency inference.
 
 **100-Docs Multilingual RAG** — *Architecture · LangChain · GCP*  
-Production **English / Arabic** RAG for large-scale documents; **GCP + Docker**, auto-scaling posture; embedding and retrieval tuned for **latency and semantic accuracy**.
+Production **English / Arabic** RAG at scale; **GCP + Docker** with auto-scaling; retrieval tuned for **latency** and **semantic accuracy**.
 
 **RAG Product Recommender** — *Pinecone · System design · FastAPI*  
-Personalized recommendations from behavior embeddings; **sub-100ms** vector search in production APIs; metrics tied to **engagement and conversions**.
+Behavior-based personalization; **sub-100ms** vector search in production APIs; outcomes tied to **engagement** and **conversions**.
 
 ---
 
@@ -71,7 +71,14 @@ Personalized recommendations from behavior embeddings; **sub-100ms** vector sear
 
 <br/>
 
-<sub><strong>Also in play</strong> — Anthropic · LangGraph · AutoGen · CrewAI · TensorFlow · Hugging Face · n8n · Milvus · ChromaDB · FAISS · Supabase · Redis · MongoDB · Node.js · MLflow · Vertex AI · Kubernetes · CI/CD · Pandas · REST APIs</sub>
+<details align="left">
+<summary><strong>Also in play</strong> <sub>(expand)</sub></summary>
+
+<sub>LLMs & agents — Anthropic · LangGraph · AutoGen · CrewAI · TensorFlow · Hugging Face · n8n</sub>  
+<sub>Data & vectors — Milvus · ChromaDB · FAISS · Supabase · Redis · MongoDB · Pandas</sub>  
+<sub>Platform — Node.js · MLflow · Vertex AI · Kubernetes · CI/CD · REST APIs</sub>
+
+</details>
 
 </div>
 
@@ -79,9 +86,11 @@ Personalized recommendations from behavior embeddings; **sub-100ms** vector sear
 
 ## Education & credentials
 
-**B.S. Artificial Intelligence** · COMSATS University Islamabad (Lahore)
+**B.S. Artificial Intelligence** — COMSATS University Islamabad (Lahore)
 
-IBM Advanced Deep Learning Specialist · ML Strategist · Deep Learning with Keras · AI with Python · Certified AI Engineering Masterclasses (Udemy, 2025)
+- IBM Advanced Deep Learning Specialist · IBM Machine Learning Strategist  
+- Deep Learning Essentials with Keras · Artificial Intelligence with Python  
+- Certified AI Engineering Masterclasses (Udemy, 2025)
 
 *English* · *Urdu* · *Arabic (NLP-oriented)*
 
@@ -98,8 +107,9 @@ IBM Advanced Deep Learning Specialist · ML Strategist · Deep Learning with Ker
 
 <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atif1299&show_icons=true&theme=tokyonight&hide_title=false&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atif1299&layout=compact&theme=tokyonight)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atif1299&theme=github-compact&hide_border=true&area=true)](https://github.com/Atif1299)
+
+<sub>Public activity only—most client and product work stays private.</sub>
 
 <br/>
 
